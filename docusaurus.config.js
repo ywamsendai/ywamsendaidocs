@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'Staff',
-                to: '/docs/staff/join',
+                to: '/docs/staff/join/join',
               },
               {
                 label: 'Students',
