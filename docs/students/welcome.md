@@ -46,4 +46,4 @@ If you have any questions, please don't hesitate to [get in touch](../community/
 
 Gary Seddon & Virmz Largo
 
-YWAM UofN Sendai DTS Leaders 
+YWAM UofN Sendai DTS Leaders
