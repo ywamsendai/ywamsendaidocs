@@ -20,7 +20,7 @@ Staff are expected to fully embrace YWAM Sendai's Vision to become a mission hub
 
 ## 4. Pay, Benefits, Insurance, & Pension
 
-Staff receive no pay from YWAM Sendai and must take full responsibility of all YWAM fees, ministry expenses, state obligations, and personal expenses incurred during their service with YWAM Sendai. Staff are expected to raise a [minimum amount of financial support](/join/fundraising.md), as discussed with YWAM Sendai Onboarding prior to them joining as Staff. There is also a need for ongoing fundraising to maintain, or even increase, this support. This is due to a combination of rising living expenses here, as well as any decrease in financial support over time. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. 
+Staff receive no pay from YWAM Sendai and must take full responsibility of all YWAM fees, ministry expenses, state obligations, and personal expenses incurred during their service with YWAM Sendai. Staff are expected to raise a [minimum amount of financial support](join/fundraising.md), as discussed with YWAM Sendai Onboarding prior to them joining as Staff. There is also a need for ongoing fundraising to maintain, or even increase, this support. This is due to a combination of rising living expenses here, as well as any decrease in financial support over time. It is vital to communicate regularly to supporters and churches, both for prayer support and for financial support. 
 
 Staff are also not entitled to any benefits, including housing.
 
