@@ -39,7 +39,7 @@ There are also other local banks which may be more convenient in your part of Ja
 ### Tax
 It is important that all YWAMers in Japan find out rules related to filing taxes both in their sending country, *as well as in Japan*.
 
-For information on filing taxes in Japan, see [this page](tax.md)
+For information on filing taxes in Japan, see [this page](tax/tax.md)
 
 ### State Pension
 

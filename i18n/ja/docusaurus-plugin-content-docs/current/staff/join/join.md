@@ -14,9 +14,9 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 **Note:** You will have had to have completed a YWAM DTS somewhere in the world to start the application process.
 
-* First, explore this wiki to find information on [staff expectations](staffing.md), [YWAM values](../about/values.md), [fundraising](fundraising.md), [Japanese culture](../community/culture.md), [Japanese language learning tips](../community/language.md) etc.
+* First, explore this wiki to find information on [staff expectations](../staffing.md), [YWAM values](../../about/values.md), [fundraising](fundraising.md), [Japanese culture](../../community/culture.md), [Japanese language learning tips](../../community/language.md) etc.
 
-* Connect with us via [Discord](../community/communication.md), introduce yourself, and ask us questions.
+* Connect with us via [Discord](../../community/communication.md), introduce yourself, and ask us questions.
 
 * We will send you a **Staff Application** form. Once you complete this, we will send **Character Reference** forms to three people that know you.
 
@@ -28,7 +28,7 @@ Above all, you should come ready to pursue God in prayer and worship and be comm
 
 * Once we have received this completed form, we will dialogue with you about any questions or concerns we have about what you submitted in order to make sure you have the care you need when serving with us.
 
-* If we feel peace with you joining us, you will then start [fundraising](fundraising.md)! This is also a good time to get stuck into [language study](../community/language.md), if you haven't already.
+* If we feel peace with you joining us, you will then start [fundraising](fundraising.md)! This is also a good time to get stuck into [language study](../../community/language.md), if you haven't already.
 
 * Once you have reached at least the Minimum Support Level of financial support, you can join our team! If you are in need of a visa to live in Japan, we will start the [visa process](visaApply.md)!
 
