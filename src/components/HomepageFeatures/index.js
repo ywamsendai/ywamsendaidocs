@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Staff',
-    address: '/docs/staff/join',
+    address: '/docs/staff/join/joinUs',
     description: (
       <>
         All you need to know about staffing at YWAM Sendai!
@@ -53,7 +53,6 @@ function Feature({title, address, description}) {
         </h3>
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
     </div>

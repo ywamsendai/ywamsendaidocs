@@ -6,7 +6,7 @@ sidebar_position: 3
 
 As YWAM Japan is a registered Religious Corporation, we can assist foreign YWAMers who do not already have residency in Japan in receiving a Religious Activities Visa. Please note that we can only offer this to those who will be, or are already, **connected with an existing YWAM location or ministry that is part of YWAM Japan's Religious Corporation**.
 
-If you do not yet have residency permission to live in Japan, part of your [process to join as YWAM Sendai staff](join.md) is to receive a visa from Japanese Immigration. This page details this process. **Please follow this process carefully.**
+If you do not yet have residency permission to live in Japan, part of your [process to join as YWAM Sendai staff](joinUs.md) is to receive a visa from Japanese Immigration. This page details this process. **Please follow this process carefully.**
 
 Please stay in touch with your us throughout the process so we know how you are doing, and ask any questions anytime.
 

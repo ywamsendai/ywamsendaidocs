@@ -70,6 +70,15 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: "true",
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -85,9 +94,27 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'handbookSidebar',
+            sidebarId: 'aboutSidebar',
             position: 'left',
-            label: 'Handbook',
+            label: 'About',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'communitySidebar',
+            position: 'left',
+            label: 'Community',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'staffSidebar',
+            position: 'left',
+            label: 'Staff',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'studentsSidebar',
+            position: 'left',
+            label: 'Students',
           },
           {
             type: 'localeDropdown',
@@ -117,7 +144,7 @@ const config = {
               },
               {
                 label: 'Staff',
-                to: '/docs/staff/join/join',
+                to: '/docs/staff/join/joinUs',
               },
               {
                 label: 'Students',
