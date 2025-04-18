@@ -8,7 +8,7 @@ sidebar_position: 6
 
 ### ＤＴＳに出願するにはどうしたらいいですか？
 
-[ＤＴＳ出願書](https://www.ywamsendai.org/ja/dtsapp/)に必要事項を記入し、送信してください。
+[申請フォーム](https://www.ywamsendai.org/ja/apply/)に必要事項を記入し、送信してください。
 
 出願から受け入れまでの詳しい過程については、[こちら](apply.md)をご参照ください。
 

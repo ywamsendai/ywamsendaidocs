@@ -8,13 +8,9 @@ sidebar_position: 6
 
 ### How do I apply?
 
-You can apply by filling out the [student application form](https://www.ywamsendai.org/en/dtsapp/).
+You can [apply here](https://www.ywamsendai.org/en/apply/)**!
 
 For more details about the application process, [click here](apply.md).
-
-### Are there any fees involved with applying?
-
-You will be required to pay a non-refundable application fee of ¥1,500 in order to submit your application.
 
 ### When is the application deadline?
 
@@ -48,13 +44,9 @@ A course may be undertaken either without a visa if you are already a resident o
 
 #### Training Fee
 
-The published Training fee covers accommodation, internet, course content, course-related travel, and refreshments.
+The published Training fee covers accommodation, meals, internet, and course content.
 
-Weekday meals are charged separately in cash. 
-
-All other personal expenses are not included in published Training fees.
-
-**Note:** You will be issued with a transporation IC card (icsca) for use for course-related travel. This is not to be used for personal travel (e.g. on weekends). It is your responsibility to ensure that this card is not lost. In the case that the card is lost, there will be a **fee of ¥2,500 to replace it**. 
+**Note:** You will be asked to have extra money in order to pay for necessary course-related transportation, which is not included in published fees. All other personal expenses are not included in published Training fees.
 
 #### Outreach Costs
 
@@ -72,24 +64,19 @@ You can find details on how to make Training Fee payments on the [Payment page](
 
 #### Training Phase
 
-- After acceptance: ¥100,000 deposit (per person) is due.
-- 10 days before Start Date: Remaining balance is due.
+- ¥150,000 is due after acceptance to secure your place, which will cover the first month of the school.
+- All other payments are due 10 days prior to the beginning of the following month.
 
 #### Outreach Phase
 
-- 28 days after Start Date: ¥100,000 deposit (per person) is due.
-- 56 days after Start Date: Remaining balance is due. 
+- ¥150,000 deposit is due one month before outreach departure.
+- Remaining balance is due two weeks before outreach departure.
 
 ### What is the refund policy?
 
 #### Training Phase
 
-- Before Arrival Day: 100%
-- Leave on or before the 2nd Sunday of the school: 85%
-- Leave on or before the 3rd Sunday of the school: 70%
-- Leave on or before the 4th Sunday of the school: 60%
-- Leave on or before the 5th Sunday of the school: 50%
-- Any time after the 5th Sunday is non-refundable.
+In general, fees are non-refundable once paid. Exceptions can be discussed depending on circumstance.
  
 #### Outreach Phase
 
@@ -136,7 +123,7 @@ Within walking distance (20 to 30min) from the DTS housing are convenience store
 
 ### Is food provided for me?
 
-Weekday breakfast, lunch, and dinner are provided at an additional cost during Training. Meals will be prepared both by staff and students (work duties).
+Three meals a day are included in the fees. Meals will be prepared both by staff and students (work duties).
 
 ### Will food be available for people with dietary restrictions and/or allergies?
 
@@ -162,7 +149,7 @@ If for any reason you feel you are being abused in any category please reach out
 
 ### What should I pack?
 
-You will need to pack your belongings in a way that you will be able to personally carry them to the Training location, as well as throughout any Outreach. **You will not be able to leave anything in Sendai during Outreach Phase.**
+You will need to pack your belongings in a way that you will be able to personally carry them to the Training location, as well as throughout any Outreach. **You may not be able to leave anything in Sendai during Outreach Phase.**
 
 Especially because of carrying the luggage around during Outreach, we ask that you carry no more than two pieces of luggage:
 
@@ -210,4 +197,4 @@ You will be provided with accommodation from the school's Arrival Date up until 
 
 ### To where and when shall I book my transport tickets?
 
-If you are coming from overseas, we recommend choosing a flight route that arrives at Sendai International Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), the closest train station is Ayashi on the JR Senzan line. We can give you directions closer to your arrival, and will arrange staff to meet you.
+If you are coming from overseas, we recommend choosing a flight route that arrives at Sendai International Airport. If you are coming from within Japan, or are arriving at a different airport (such as in Tokyo), we can give you directions closer to your arrival, and will arrange staff to meet you.

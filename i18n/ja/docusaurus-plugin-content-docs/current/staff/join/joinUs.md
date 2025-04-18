@@ -2,40 +2,36 @@
 sidebar_position: 1
 ---
 
-# Join Us!
+# 参加しよう！
 
-If you feel you may be called to reach and love the Japanese in Japan, then we would love to have you consider joining us!
+もしあなたが、東北地方の人々に福音を届け、愛することに召されていると感じているなら、ぜひ私たちと共に働くことを考えてみてください！
 
-As a staff at YWAM Sendai, you will become an integral part of a pioneering missional community where your gifting and personality will shape our culture and influence how we reach the Japanese.
+仙台YWAMのスタッフとして、あなたは先駆的な宣教コミュニティの重要な一員となり、あなたの賜物と個性がコミュニティの文化を形作り、人々へのアプローチに影響を与えることになります。
 
-Above all, you should come ready to pursue God in prayer and worship and be committed to developing a naturally supernatural lifestyle. You should also be flexible as this is a pioneering YWAM community, not just a gathering of individual missionaries.
+何よりもまず、祈りと礼拝を通して神を追い求め、「自然で超自然的な」ライフスタイルを築く覚悟を持って来てください。また、仙台YWAMは個人の宣教師が集まっているだけの場ではなく、パイオニア的なコミュニティですので、柔軟な姿勢も求められます。
 
-## The Process
+## プロセス
 
-You will be guided through this process and you are free to ask questions anytime!
+このプロセスは、あなたをガイドしながら進めていきますので、いつでも質問して大丈夫です！
 
-**Note:** You will have had to have completed a YWAM DTS somewhere in the world to start the application process.
+始める前に、以下のオンライン資料を確認し、[スタッフとしての期待](../staffing.md)、[YWAMの価値観](../../about/values.md)、[資金調達について](fundraising.md)、[役に立つ英語フレーズ](../../community/helpfulphrases.md)などを学んでください。また、[Discord](../../community/communication.md)で私たちに連絡し、自己紹介したり、質問したりしてください。
 
-### 1 Connect
+**注意：** YWAMのDTSを世界のどこかで修了していることが、申請を始めるための前提条件です。
 
-First, explore this online documentation to find information on [staff expectations](../staffing.md), [YWAM values](../../about/values.md), [fundraising](fundraising.md), [Japanese culture](../../community/culture.md), [Japanese language learning tips](../../community/language.md) etc, and connect with us via [Discord](../../community/communication.md), introduce yourself, and ask us questions.
+### 1. 申請
 
-### 2 Apply
+準備が整ったら、[こちらから申請してください](https://www.ywamsendai.org/ja/apply/)。申請が届き次第、内容について確認の質問をさせていただく場合があります。
 
-Once you feel ready, fill out our short application form.
+### 2. 面接
 
-Once we have received your application, we may ask clarifying questions about anything you have submitted.  , setting up a video call, and maybe asking for character references to help us discern if this is the place for you. We will let you know our decision as soon as possible.
+次のステップに進めると判断した場合、あなたをよりよく知るためのビデオ面接を行います。これにより、スタッフとしての適性をさらに見極めていきます。
 
-### 3 Interview
+### 3. 審査・決定
 
-If we feel happy to move forward, we will set up a video interview with you in order to get to know you better and better discern your suitability for the staff position.
+さらに前向きに進めると判断した場合、あなたが記入した推薦者に連絡を取り、あなたについてのより広い視点からのフィードバックをいただきます。それをもとに、できるだけ早く結果をお知らせします。
 
-### 4 Decision
+### 4. 準備
 
-Again, if we feel happy so far, we will contact your provided references to gain a fuller perspective and to confirm what we have learnt about you up to this point. After we have received this feedback, we will let you know our decision as soon as possible.
+受け入れが決定したら、[資金調達](fundraising.md)を始めましょう！まだ始めていない場合は、このタイミングで[役に立つ英語フレーズ](../../community/helpfulphrases.md)にも本格的に取り組むとよいでしょう。
 
-### 5 Preparation
-
-If accepted, you will then start [fundraising](fundraising.md)! This is also a good time to get stuck into [language study](../../community/language.md), if you haven't already.
-
-Once you have reached at least the Minimum Support Level of financial support, you can join our team! If you are in need of a visa to live in Japan, we will start the [visa process](visaApply.md)!
+必要な経済的サポートが「最低サポートレベル」に達したら、チームに正式に加わることができます！
