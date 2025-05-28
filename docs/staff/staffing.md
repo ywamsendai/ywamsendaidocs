@@ -87,7 +87,7 @@ Leave Type | Defined
 --------- | ---------
 Public Holidays | Staff can usually expect to have Japanese public holidays off (around 16 each year). When this is not the case, alternative days will be decided upon.
 Annual Leave (Holiday Entitlement) | Staff can expect 20 days off per year. We encourage taking at least 1 full week at a time for deeper rest. This does not roll over into the next year if not taken.
-Fundraising Leave | Staff are encouraged to travel to visit their sending church and supporters periodically in order to update them on their service with YWAM Sendai, as well as to maintain their financial support. Staff are encouraged to take 2 weeks per year for this (this can roll over into up to 4 years for a max of 8 weeks every 4 years).
+Fundraising (Furlough) Leave | Staff are encouraged to visit their support network periodically in order to update them on their service with YWAM Sendai, as well as to maintain their financial support. Staff are encouraged to take up to 3 weeks per year for this (this can roll over into up to 4 years for a max of 12 weeks every 4 years).
 Commpassionate (Bereavement) Leave | Staff can request leave to accommodate the loss of a family member (or other emergencies/life changes).
 Maternity (Parental) Leave | Staff can request leave when their family has a newborn child (either before or after the birth, or both).
 Sick Leave | Staff can request leave that is taken when a they fall ill, whether for a day, weeks, or months depending on the severity of the illness. If longer than 3 days, Staff will be requested to visit a doctor.
