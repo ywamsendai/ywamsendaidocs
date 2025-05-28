@@ -52,16 +52,26 @@ The City of Sendai is the primary place of work for our Staff. There is a combin
 
 ## 7. Working Hours
 
-Staff are expected to work for 40 hours per week, with these hours spread throughout the whole week, including weekends. At least one full day off per week can be expected. Work hours are expected to be divided between the necessary functioning of YWAM Sendai, and for ministry, as shown in the following table:
+Staff are expected to work for 40 hours per week, with these hours spread throughout the whole week. Staff should take 1 full day off per week. Work hours are expected to be divided between the necessary functioning of YWAM Sendai, and for ministry, as shown in the following table:
 
 Category | Hours per Week | Description
 --------- | --------- | ---------
 **YWAM Sendai Functioning** | 8 hours (20% of time) | All scheduled core meetings, role-related administrative work, etc.
 **Ministry** | 32 hours (80% of time) | DTS/other UofN school, Kokubuncho (red-light district) ministry, Kokoro Kitchen, park/sports ministry, homeless ministry, meeting Japanese people, evangelism, discipleship, prayer walking, event prep, etc.
 
-**Note on language study:** For all new non-Japanese speaking staff, it is encouraged that most of the ministry time be spent studying the Japanese language for the first two years in Japan (outside of DTS season, currently). After the first two years, staff can use up to 8 hours of ministry time to study the language (leaving at least 24 hours for ministry). Any other language study should be done outside of work hours.
+### Language study
 
-**Note for families with small children:** In general, it is expected that the parents of small children will share the above work hours between them. Of course, each family will have different needs so this can be discussed with a Staffing Steward.
+For all new non-Japanese speaking staff, with a **long-term (indefinite) call to Japan**, up to 16 hours of the ministry time (50%) can be spent studying the Japanese language for the first year in Japan (outside of DTS season, currently). After the first year, staff can use up to 8 hours of ministry time to study the language. Any other language study should be done outside of work hours.
+
+Staff who are unsure of their long-term call to Japan (less than 5 year intention) can use 1 hour ministry time per week for language study.
+
+### Families with small children
+
+It is expected that the parents of small children will share the above work hours between them. Of course, each family will have different needs so this can be discussed with a Staffing Steward.
+
+### Support raising
+
+Ministry hours may include up to 1 hour per week (or up to 2 hours biweekly) for support raising.
 
 ## 8. Core Meetings
 
@@ -75,13 +85,13 @@ If any Staff need to be absent from scheduled events or meetings for any reason,
 
 Leave Type | Defined
 --------- | ---------
-Annual Leave (Holiday Entitlement) | Staff are encouraged to take 3 weeks off per year (this does not roll over into the next year if not taken).
-National Holidays | Staff can usually expect to have Japanese national holidays off (around 16 each year). When this is not the case, alternative days will be decided upon.
-Fundraising Leave | Staff are encouraged to travel to visit their sending church and supporters periodically in order to update them on their service with YWAM Sendai, as well as to maintain their financial support. Staff are encouraged to take 2 weeks per year for this (this can roll over into the next year, and be combined with annual leave to extend it).
+Public Holidays | Staff can usually expect to have Japanese public holidays off (around 16 each year). When this is not the case, alternative days will be decided upon.
+Annual Leave (Holiday Entitlement) | Staff can expect 20 days off per year. We encourage taking at least 1 full week at a time for deeper rest. This does not roll over into the next year if not taken.
+Fundraising Leave | Staff are encouraged to travel to visit their sending church and supporters periodically in order to update them on their service with YWAM Sendai, as well as to maintain their financial support. Staff are encouraged to take 2 weeks per year for this (this can roll over into up to 4 years for a max of 8 weeks every 4 years).
 Commpassionate (Bereavement) Leave | Staff can request leave to accommodate the loss of a family member (or other emergencies/life changes).
 Maternity (Parental) Leave | Staff can request leave when their family has a newborn child (either before or after the birth, or both).
-Sabbatical (Long) Leave | Staff can request take time off to pursue a passion, volunteer, partake in some kind of project, or to get needed rest.
 Sick Leave | Staff can request leave that is taken when a they fall ill, whether for a day, weeks, or months depending on the severity of the illness. If longer than 3 days, Staff will be requested to visit a doctor.
+Sabbatical (Long) Leave | After serving for 5 years, staff can request to take up to 3 months for sabbatical to pursue a passion, for spiritual renewal, or to get needed rest. This should be planned at least 6 months in advance.
 Miscellaneous Leave | All other forms of leave that may not fit in the above list are classified as miscellaneous leave.
 
 ## 10. Training
@@ -90,7 +100,7 @@ Staff are required to complete a YWAM Discipleship Training School (DTS) prior t
 
 Staff are required to also learn the Japanese language up to at least Japanese Language Proficiency Test (JLPT, the national standard of proficiency testing) level N2 comprehension while serving with YWAM Sendai, at their own expense. A portion of work hours can be allocated for this depending on how long the Staff has been in Japan. This can be discussed with Staffing Stewards.
 
-Further training is also encouraged, but not necessary; especially the YWAM School of Frontier Missions (SOFM) or School of Biblical Studies (SBS). Time off can be given for such training.
+Further training is also encouraged, but not necessary; especially the YWAM School of Frontier Missions (SOFM) or Discipleship Bible School (DBS). Time off can be given for such training.
 
 ## 11. YWAM Sendai, Japan & Global Gatherings
 
@@ -116,7 +126,9 @@ Staff are expected to communicate well both in person and online. As our Staff t
 
 In order to make God known to the Japanese, and to become a Japanese-English bilingual community, Staff are expected to develop a passion to learn Japanese culture and [language](../community/language.md), and to keep learning even when it gets tough.
 
-Right from the beginning, it is expected that Staff will pursue opportunities to be immersed in Japanese-only settings (e.g. church). Learning this language requires discipline and good strategy. We encourage each Staff member to set achievable goals in language study and to stick to a study schedule. We are in this together, so we ask everyone to keep each other accountable. As we want to be a bilingual YWAM community with Japanese as our common language, we challenge each Staff to speak in Japanese together.
+Right from the beginning, it is expected that Staff will pursue opportunities to be immersed in Japanese-only settings (e.g. church). Learning this language requires discipline and good strategy. We encourage each Staff member to set achievable goals in language study and to stick to a study schedule. **It is expected that Staff will take a JLPT test annually until N2 is passed.**
+
+We are in this together, so we ask everyone to keep each other accountable. As we want to be a bilingual YWAM community with Japanese as our common language, we challenge each Staff to speak in Japanese together.
 
 ## 16. Local Church
 
