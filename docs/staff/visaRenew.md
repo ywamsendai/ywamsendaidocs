@@ -8,10 +8,10 @@ If you are currently residing in Japan with a YWAM Japan issued visa, you can st
 
 ## The Process
 
-- Message Gary the following: residence card number, length of desired visa extension (**1, 3, or 5 years**), and the **name and address of your sending church** (who will be providing letters as part of this application).
+- Message Gary the following: residence card number, and the **name and address of your sending church** (who will be providing letters as part of this application).
 - Gather together all required documents (detailed below).
-- You then go to the Sendai Immigration office and submit all of these documents.
-- You will receive a postcard through the mail after between 2 weeks and 1 month when your application has been processed. Take this to the immigration office, along with the 4,000 yen revenue stamp, in order to pick up your new residence card.
+- You then go to the Sendai Immigration office and submit all of these documents. (Can also be done [online](https://www.moj.go.jp/isa/applications/online/onlineshinsei.html?hl=en))
+- You will receive a postcard through the mail after between 2 weeks and 1 month when your application has been processed. Take this to the immigration office, along with the 6,000 yen revenue stamp, in order to pick up your new residence card. (If applied for online, it will be mailed to your home)
 
 ## Required Documentation
 
@@ -24,7 +24,7 @@ Please find below a list of what you need in order to apply for your visa extens
 - **Page 3 of the Application Form** from YWAM Sendai
 - YWAM Japan National Office issued **Invitation/Warranty** from YWAM Sendai
 - **Passport** and **residence card**
-- **4,000 yen revenue stamp** when picking up the new residence card - can be bought at a post office
+- **6,000 yen revenue stamp** when picking up the new residence card - can be bought at a post office
 
 **Note:**
 
