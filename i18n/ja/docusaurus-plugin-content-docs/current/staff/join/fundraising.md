@@ -8,7 +8,7 @@ So, you've decided to the team! Now comes the process of raising your monthly fi
 
 ## Financial Support
 
-In YWAM, nobody gets paid by YWAM! Finances do not come through YWAM Sendai before going to the missionary. Each member has full responsibility for raising their own financial support and to steward that money well. Of course, we do not truth in people alone for our support. We value total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
+In YWAM, nobody gets paid by YWAM! Finances do not come through YWAM Sendai before going to the missionary. Each member has full responsibility for raising their own financial support and to steward that money well. Of course, we do not trust in people alone for our support. We value total reliance on God and to have faith that God is who He says He is - Provider. We believe that God will fully provide for those He calls to the mission field.
 
 As a mission field, Japan is a particularly expensive place. Though we fully believe that God provides for us, and know that there are those that live day to day without knowing where their next donation will come from, we have seen people like this struggle here in Japan. This is disheartening. It is especially difficult when people start to get into debt because it is so expensive to live here! We don't believe its ever God's plan for people to struggle continuously and to get into debt.
 
