@@ -22,9 +22,9 @@ We have set different amounts depending on one's circumstances. Here are the cur
 
 Category | MSL | RSL
 --------- | --------- | ---------
-**Individual** | ¥120,000 | ¥220,000
-**Couple** | ¥150,000 | ¥250,000
-**Small Family** | ¥220,000 | ¥320,000
+**Individual** | ¥180,000 | ¥250,000
+**Couple** | ¥220,000 | ¥350,000
+**Small Family** | ¥400,000 | ¥550,000
 
 If you are considering joining us shorter term (1 to 2 years), we can consider savings as part of your support by dividing your savings by the number of months you'd like to serve here. Savings should also include moving-in and setup costs (see below). But please do not do this without prayer, as it is much better to raise the full amount in monthly support before your arrival.
 
