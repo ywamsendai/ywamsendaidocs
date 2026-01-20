@@ -20,6 +20,6 @@ sidebar_position: 7
 
 * まだ参加していない場合は、今すぐDiscordに参加してください。これからのやり取りは主に[Discord](../community/communication.md)を通して行います。
 
-* [資金集め](dtsfundraising.md)を進めるにあたって、[英語](../community/helpfulphrases.md)の勉強を始めておくと役立つかもしれません！
+* [資金集め](studentfundraising.md)を進めるにあたって、[英語](../community/helpfulphrases.md)の勉強を始めておくと役立つかもしれません！
 
 このプロセスは順を追って案内しますので、いつでも自由に質問してください！よくある質問への答えは[FAQ](faq.md)にも掲載されていますので、そちらもぜひご覧ください。
