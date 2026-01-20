@@ -20,7 +20,7 @@ Please note that the application process may take some time, i.e. to receive you
 
 ### How will I know if I’ve been accepted?
 
-We’ll let you know via email, and this will contain any further additional information you’ll need. 
+We’ll let you know via email or messaging app, and this will contain any further additional information you’ll need. 
 
 ### Why haven’t I heard back about my application?
 
@@ -42,30 +42,44 @@ A course may be undertaken either without a visa if you are already a resident o
 
 ### What do course fees cover?
 
-#### Training Fee
+#### DTS Lecture Phase / Secondary School
 
-The published Training fee covers accommodation, meals, internet, and course content.
+For the three-month DTS Lecture Phase or Secondary School (such as DBS), here are the following costs involved:
 
-**Note:** You will be asked to have extra money in order to pay for necessary course-related transportation, which is not included in published fees. All other personal expenses are not included in published Training fees.
+**Tuition fee:  ¥300,000 (tax included)**
+This includes lectures, administration, and refreshments.
 
-#### Outreach Costs
+**Accommodation: ¥120,000**
+This includes bedding, utilities, and wifi.
 
-For courses that include an Outreach Phase, the estimated cost will be communicated with you ahead of time. This varies according to the location and length of the Outreach. This generally covers transportation, main meals, accommodation, and any other necessary expenses.
+**Food, local transportation, and personal expenses: Budget around ¥150,000**
+There will be a mix of shared meals (you will be asked for a contribution towards costs), eating out, and times to provide for yourself. You will also need to pay for train fares to travel to ministry or church. You may also want extra money for personal expenses. This amount is an estimated budget.
 
-Personal expenses and any vaccination costs are not included in communicated Outreach Cost.
+#### Outreach Phase
+
+For courses that include an Outreach Phase (such as DTS), the estimated cost will be communicated with you ahead of time. This varies according to the location and length of the Outreach. 
+
+**Estimated budget: ¥400,000**
+This generally covers transportation, main meals, accommodation, and any other necessary expenses. Personal expenses and any vaccination costs are not included in communicated Outreach Cost.
+
+#### Total DTS Cost
+
+Just to make it clear, it is necessary to complete both the Lecture and Outreach phases of the DTS. So **please budget for around ¥970,000 for the duration of the school**.
 
 ### How do I pay?
 
-You can find details on how to make Training Fee payments on the [Payment page](../about/payment.md).
+You can find details on how to make Tuition Fee payments on the [Payment page](../about/payment.md).
 
-**Please note that the Outreach Cost is to be given in cash to a designated Outreach leader**
+**Please note that accommodation, food, and Outreach costs are to be given in CASH ONLY.**
 
 ### When are payments due?
 
-#### Training Phase
+#### DTS Lecture Phase / Secondary School
 
-- ¥150,000 is due after acceptance to secure your place, which will cover the first month of the school.
-- All other payments are due 10 days prior to the beginning of the following month.
+- A deposit of ¥100,000 is due after acceptance to secure your place.
+- The remaining tuition fee of ¥200,000 is due 10 days before the arrival date.
+- The ¥120,000 accommodation fee, as well as shared meal contribution for the first month, is due in cash on arrival.
+- Other shared meal contributions are to be paid at the beginning of week 4 and week 8.
 
 #### Outreach Phase
 
@@ -74,9 +88,9 @@ You can find details on how to make Training Fee payments on the [Payment page](
 
 ### What is the refund policy?
 
-#### Training Phase
+#### DTS Lecture Phase / Secondary School
 
-In general, fees are non-refundable once paid. Exceptions can be discussed depending on circumstance.
+In general, tuition fees are non-refundable once paid. Exceptions can be discussed depending on circumstance. There will be a pro-rated refund of accommodation and meals (by week).
  
 #### Outreach Phase
 
@@ -87,13 +101,13 @@ In general, fees are non-refundable once paid. Exceptions can be discussed depen
 
 ### Is housing provided?
 
-Yes. Housing nearby many of the YWAM Sendai staff is provided and included in your Training fees.
+Yes. Housing is provided and paid for separate from tuition fees.
 
 ### What is housing like?
 
 Housing is generally basic, but comfortable! All students will live in shared housing with other students and have access to a small kitchen and bathroom. There will also be air-conditioning or heating, depending on the season.
 
-Surrounding the housing are rice fields and views of the mountains, which facilitates quiet times. The one downside is it is around a 20min walk to the nearest convenience store and train station (which has easy access to central Sendai), and 30mins to the supermarket.
+Surrounding the housing are quiet residential areas and a view of the mountains, which facilitates quiet times. There are convenience stores, a supermarket, restaurants, post office, library, coin laundry within walking distance, and the nearby train station has easy access to central Sendai.
 
 ### How do I do laundry?
 
@@ -101,7 +115,7 @@ The housing includes a washing machine and space to hang dry. There is also coin
 
 ### Can I live in my own housing if I want to?
 
-DTS: We are sorry, but no. As the DTS programme is a “live-learn environment,” attendees may not live outside of the DTS community.
+We are sorry, but no. As the DTS and DBS programmes are “live-learn environments,” attendees may not live outside of the school community.
 
 ## School Life
 
@@ -113,17 +127,17 @@ Located in the largest city in the Tohoku (North-East) region called Sendai, the
 
 Generally, if it is a bilingual course, lecture time is around 16 hours per week. If monolingual, lecture is around 12 hours. In general, you can expect to be involved in lectures, processing time, intercession & prayer, worship, etc. from 8am to 5pm on weekdays (schedule still to be finalised).
 
-### What is work duty and how much of it do I have?
+### What is "work duty" and how much of it do I have?
 
-Work duty is a way for students to serve and give back to the DTS. Typically a student will spend two hours per day helping an essential need. Many students end up helping out in the kitchen, or taking care of the grounds, etc.
+Work duty is a way for students to serve and give back to the community. Typically a student will spend two hours per day helping an essential need. Many students end up helping out in the kitchen, or taking care of the grounds, etc.
 
 ### How do I get around?
 
-Within walking distance (20 to 30min) from the DTS housing are convenience stores, coin laundry, supermarkets, post office, restaurants, and train station. There are buses that go to a nearby mall, hot springs, and a public swimming pool. The train gives easy access to downtown Sendai, mountain walks, ocean-side towns, and the local airport.
+Within walking distance (10 to 20 min) from the DTS housing are convenience stores, coin laundry, supermarkets, post office, restaurants, and train station. There are buses that go to a nearby mall, hot springs, and a public swimming pool. The train gives easy access to downtown Sendai, mountain walks, ocean-side towns, and the local airport.
 
 ### Is food provided for me?
 
-Three meals a day are included in the fees. Meals will be prepared both by staff and students (work duties).
+Some shared meals are to be paid for separate from the tuition fees. These meals will be prepared both by staff and students (work duties). We will provide more information closer to the start of the school.
 
 ### Will food be available for people with dietary restrictions and/or allergies?
 
@@ -149,7 +163,7 @@ If for any reason you feel you are being abused in any category please reach out
 
 ### What should I pack?
 
-You will need to pack your belongings in a way that you will be able to personally carry them to the Training location, as well as throughout any Outreach. **You may not be able to leave anything in Sendai during Outreach Phase.**
+You will need to pack your belongings in a way that you will be able to personally carry them to the school location, as well as throughout any Outreach. **You may not be able to leave anything in Sendai during Outreach Phase.**
 
 Especially because of carrying the luggage around during Outreach, we ask that you carry no more than two pieces of luggage:
 
@@ -160,24 +174,23 @@ Here’s a basic list of things that you’ll **need** for your time here at YWA
 
 - Passport (must be valid for at least six months after the school's Departure Date)
 - Proof of health insurance (must be valid for Japan)
-- Bible
+- Paper Bible (you cannot rely on using a device for this)
 - Something to take notes with
 - Towel
 - Personal toiletry items
-- Clothing suited for season
+- Modest clothing suited for season
 - Sleeping bag & travel pillow for outreach
  
 Here’s an additional list of recommended items:
 
 - Small packaged snacks or gifts representing your nation (Beneficial for meeting Japanese people after you arrive, including at church)
-- Travel mug for hot drinks
-- Smartphone (for Bible, maps, language translation, taking notes, making local friends, disaster notifications, communicating on [Discord](../community/communication.md) etc.)
+- Travel mug or flask for hot/cold drinks
 - Foldable umbrella
 - Small mirror (limited use of shared bathroom)
 
 ### Do I need to buy health insurance?
 
-Yes. All students are required to present valid health insurance on registration. This insurance must be valid in Japan.
+Yes. Prior to arrival, all students are required to present valid health insurance on registration. This insurance must be valid in Japan (please check with your provider).
 
 ### Do I need any vaccinations?
 
