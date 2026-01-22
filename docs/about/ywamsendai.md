@@ -31,7 +31,7 @@ We move away from "imported" religious styles, instead embracing:
 YWAM Sendai is a **House of Unity**. We believe that the evangelization of Japan requires the "two lungs" of the Church—East and West—breathing together.
 
 ### 1. The Home of the Great Tradition
-We are a home for YWAMers from all major Christian streams—**Orthodox, Catholic, Anglican, and Evangelical/Pentecostal**. We believe that our diversity is not a weakness but a reflection of the fullness of the Body of Christ.
+We are a home for YWAMers from all major Christian streams—**Catholic, Protestant, and Orthodox**. We believe that our diversity is not a weakness but a reflection of the fullness of the Body of Christ.
 
 ### 2. The Foundation of Unity
 Our unity is not based on a "lowest common denominator," but on the robust foundation of:
