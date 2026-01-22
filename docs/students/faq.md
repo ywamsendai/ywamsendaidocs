@@ -8,7 +8,7 @@ sidebar_position: 6
 
 ### How do I apply?
 
-You can [apply here](https://www.ywamsendai.org/en/apply/)**!
+You can **[apply here](https://www.ywamsendai.org/en/apply/)**!
 
 For more details about the application process, [click here](apply.md).
 

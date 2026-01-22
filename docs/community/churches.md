@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Churches in Sendai
 
-Here is a list of churches some of our staff attend. It is a required part of the DTS schedule to attend and commit to a local church.
+Here is a list of some churches you can find in Sendai. It is a required part of the DTS schedule to attend and commit to a local church.
 
 - [Ayashichuo Christ Church](https://ayashi.clbj.org/) - Lutheran Brethern church in Ayashi (Japanese-only)
 
@@ -22,4 +22,6 @@ Here is a list of churches some of our staff attend. It is a required part of th
 
 - [Praise Community Church (PCC) Sendai](https://www.pccsendai.com/) - A pentecostal church in central Sendai (Japanese)
 
-- [Victory Family Centre](https://www.victoryjapan.jp/sendai) - A Singaporean church plant in central Sendai (bilingual)
+- [Victory Family Centre](https://www.victoryjapan.jp/sendai) - A church plant in central Sendai (bilingual)
+
+- [Sendai Anglican Cathedral](https://nskk-tohoku.com/) (Japanese)

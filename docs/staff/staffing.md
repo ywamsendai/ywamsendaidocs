@@ -2,23 +2,39 @@
 sidebar_position: 1
 ---
 
-# Staffing Agreement
+# Staffing Covenant
 
-This agreement lists the terms and conditions ("particulars") of all full-time Staff (simply referred to as 'Staff' throughout this statement) serving with Youth With A Mission (YWAM) Sendai.
+## 1. Our Vision: A Mission Hub for Tohoku
 
-## 1. Who This Agreement Applies To, and From When They Are Valid
-
-This Agreement applies to all Staff serving with YWAM Sendai from the day they start attending a scheduled meeting or event.
+Staff are expected to fully embrace YWAM Sendai's Vision to become a mission hub for the whole Tohoku region. We feel that God has called YWAM Sendai to become a healthy and vibrant YWAM / UofN training centre, established specifically in order to multiply ministries throughout Sendai city and the whole Tohoku region. We want to see Japanese or Japanese-English training schools designed to equip people to reach the Japanese people specifically, and giving them practical experience in reaching the Japanese in Sendai through various ministries.
 
 ## 2. YWAM DNA
 
 It is necessary to have completed a YWAM DTS in order be a YWAM Staff anywhere in the world. This is where the YWAM DNA is imparted. As a DTS graduate and a YWAM Staff, it is important to make a commitment to the YWAM [Purpose, Beliefs & Values](../about/values.md) and the [Legacy Words & Covenants](../about/covenants.md). This is what we consider to be the YWAM DNA. We ask all Staff to refresh themselves regularly on what it means to be a YWAMer. Staff are expected to not only know what YWAM is about, but also to live it. Staff are expected to invest in their personal relationship with God through daily habits such as prayer, Bible reading/study, and worship.
 
-## 3. YWAM Sendai Vision
+## 3. The Sacredness of the Person
 
-Staff are expected to fully embrace YWAM Sendai's Vision to become a mission hub for the whole Tohoku region. We feel that God has called YWAM Sendai to become a healthy and vibrant YWAM / UofN training centre, established specifically in order to multiply ministries throughout Sendai city and the whole Tohoku region. We want to see Japanese or Japanese-English training schools designed to equip people to reach the Japanese people specifically, and giving them practical experience in reaching the Japanese in Sendai through various ministries.
+We believe the human person is a temple of the Holy Spirit. Therefore, we uphold a 'Holistic Sanctity' that includes:
 
-## 4. Pay, Benefits, Insurance, & Pension
+- **Integrity of the Body:** We honour the created order of male and female and the traditional biblical boundary of marriage (one man/one woman). We believe that living in harmony with our biological sex and biblical sexuality is a part of our path toward sanctification/*Theosis*.
+
+- **Asceticism & Sobriety:** We encourage a lifestyle of moderation and self-control (fasting, digital rest, and sobriety) as tools for spiritual clarity.
+
+## 4. Japanese Language & Culture
+
+In order to make God known to the Japanese, and to become a Japanese-English bilingual community, all non-Japanese speaking Staff are expected to develop a passion to learn the [Japanese language](../community/language.md) and culture, and to keep learning even when it gets tough.
+
+Right from the beginning, it is expected that Staff will pursue opportunities to be immersed in Japanese-only settings (e.g. church, social groups) and to consume Japan-native media. Learning this language requires discipline and good strategy. We encourage each Staff member to set achievable goals in language study and to stick to a study schedule. The goal is fluency. **It is expected that Staff will take a Japanese Language Proficiency Test (JLPT, the national standard of proficiency testing) annually until N2 is passed.**
+
+For all new non-Japanese speaking staff, **up to 16 hours of the ministry time (50%)** can be spent studying the Japanese language for the first 2 years in Japan (outside of DTS season, currently). After this, **up to 8 hours of the ministry time (25%)** can be used to study the language until JLPT N2 is passed. Any other language study should be done outside of work hours.
+
+We are in this together, so we ask everyone to keep each other accountable. As we want to be a bilingual YWAM community with Japanese as our common language, we challenge each Staff to speak in Japanese together, not to default to English.
+
+## 5. Local Church
+
+All Staff are expected to be an active part of a local expression of Church. We believe the local church is the home of every believer and the primary place of spiritual authority. We desire to love, serve, encourage, pray for, and wholeheartedly participate in the Church in Sendai.
+
+## 6. Pay, Benefits, Insurance, & Pension
 
 Staff receive no pay from YWAM Sendai and must take full responsibility of all YWAM fees, ministry and outreach expenses, language learning expenses, training expenses, state obligations, and personal expenses incurred during their service with YWAM Sendai. Staff are expected to raise a [minimum amount of financial support](join/fundraising.md), as discussed with YWAM Sendai Onboarding prior to them joining as Staff. There is also a need for ongoing fundraising to maintain, or even increase, this support. It is vital to communicate regularly to supporters and churches, both for prayer and financial support.
 
@@ -26,7 +42,7 @@ Staff are also not entitled to any benefits, including housing.
 
 Staff are not enrolled into any health insurance or pension in connection with their service with YWAM Sendai. As residents of Japan, Staff are obligated to enroll in and make required payments into both the Japanese National Health Insurance and the National Pension system.
 
-## 5. Staff Contributions
+## 7. Staff Contributions
 
 Each staff member is expected to make a monthly contribution of ¥6,000 to YWAM Sendai in order to help cover corporate expenses.
 
@@ -46,11 +62,7 @@ The following are ways in which this money may be used:
 
 Staff have the right to ask specific questions regarding the how the Staff Contribution, and YWAM Sendai's funds, are used.
 
-## 6. Place of Work
-
-The City of Sendai is the primary place of work for our Staff. There is a combination of working from home, other Staff's homes, churches, public places, and any other properties/facilities YWAM Sendai uses for work. Sometimes traveling out of city (including overseas) will be necessary.
-
-## 7. Working Hours
+## 8. Working Hours
 
 Staff are expected to work for 40 hours per week, with these hours spread throughout the whole week. Staff are encouraged to take 1 full day off per week. Work hours are expected to be divided between the necessary functioning of YWAM Sendai, and for ministry, as shown in the following table:
 
@@ -61,21 +73,11 @@ Category | Hours per Week | Description
 
 **Note for families with small children**: It is expected that the parents of small children will share the above work hours between them. Of course, each family will have different needs so this can be discussed with Leadership.
 
-## 8. Core Meetings
+## 9. Core Meetings
 
 Staff must make a commitment to wholeheardedly attend all scheduled [core meetings](ywamsendailife.md). Scheduled meetings are variable and can change at short notice. 
 
 **Note for families with small children**: Children are welcome at all of our core meetings, but we realise that each family and child is different. We ask that at least one parent attend each of the scheduled core meetings, and that each parent try to alternate when possible. This is so that one of the parents doesn't become disconnected from our community.
-
-## 9. Japanese Language & Culture
-
-In order to make God known to the Japanese, and to become a Japanese-English bilingual community, all non-Japanese speaking Staff are expected to develop a passion to learn the [Japanese language](../community/language.md) and culture, and to keep learning even when it gets tough.
-
-Right from the beginning, it is expected that Staff will pursue opportunities to be immersed in Japanese-only settings (e.g. church, social groups) and to consume Japan-native media. Learning this language requires discipline and good strategy. We encourage each Staff member to set achievable goals in language study and to stick to a study schedule. The goal is fluency. **It is expected that Staff will take a Japanese Language Proficiency Test (JLPT, the national standard of proficiency testing) annually until N2 is passed.**
-
-For all new non-Japanese speaking staff, **up to 16 hours of the ministry time (50%)** can be spent studying the Japanese language for the first 2 years in Japan (outside of DTS season, currently). After this, **up to 8 hours of the ministry time (25%)** can be used to study the language until JLPT N2 is passed. Any other language study should be done outside of work hours.
-
-We are in this together, so we ask everyone to keep each other accountable. As we want to be a bilingual YWAM community with Japanese as our common language, we challenge each Staff to speak in Japanese together, not to default to English.
 
 ## 10. YWAM Sendai, Japan & Global Gatherings
 
@@ -117,7 +119,3 @@ If the grievance is not resolved to their satisfaction, or if the grievance rela
 ## 15. Communication
 
 Staff are expected to communicate well both in person and online. As our Staff team is made up of those from different cultures and languages, over-communication, rather than under-communication, is important. Staff are expected to be active and attentive to all communication done over [Discord](../community/communication.md), not simply to wait until a scheduled in-person meeting.
-
-## 16. Local Church
-
-All Staff are expected to be an active part of a local expression of Church. This could be an established church or a house church, or Staff could start their own church if felt led. Regardless of how this looks, we desire to love, serve, and be an encouragement to God's people here in Sendai.
