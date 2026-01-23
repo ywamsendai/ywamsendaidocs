@@ -44,6 +44,6 @@ You can also find the different pages on the menu to the left, or by touching th
 If you have any questions, please don't hesitate to [get in touch](../community/communication.md) with us!
 
 
-Gary Seddon & Virmz Largo
+Gary Seddon & Jing Zhang
 
 YWAM UofN Sendai DTS Leaders

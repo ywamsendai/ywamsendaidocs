@@ -42,6 +42,6 @@ sidebar_position: 1
 質問がある場合は、遠慮なく[こちらからご連絡](../community/communication.md)ください！
 
 
-Gary Seddon & Virmz Largo
+Gary Seddon & Jing Zhang
 
 仙台ワイワムUofN DTSリーダー
