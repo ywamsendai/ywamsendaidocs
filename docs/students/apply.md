@@ -10,7 +10,7 @@ As a student at YWAM Sendai, you will become a part of a missional community as 
 
 ## The Application Process
 
-At any time in this process, feel free to connect with us via [Discord](../community/communication.md), introduce yourself, and ask us any questions. You can also send us an email at [ywamsendai.students@gmail.com](mailto:ywamsendai.students@gmail.com)
+At any time in this process, feel free to connect with us via [Discord](../community/communication.md), introduce yourself, and ask us any questions. You can also send us an email at [apply@ywamsendai.org](mailto:apply@ywamsendai.org)
 
 * First, fill out the **[application form](https://www.ywamsendai.org/en/apply/)**! Once we receive this, we will contact your reference to better discern your suitability to the school.
 

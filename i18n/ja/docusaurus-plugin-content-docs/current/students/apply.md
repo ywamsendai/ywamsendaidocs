@@ -10,7 +10,7 @@ sidebar_position: 4
 
 ## 申請プロセス
 
-* このプロセスでは、いつでも[Discord](../community/communication.md)を介して私たちとつながり、自己紹介や質問をすることができます。また、[ywamsendai.students@gmail.com](mailto:ywamsendai.students@gmail.com)までメールを送っていただいても結構です。
+* このプロセスでは、いつでも[Discord](../community/communication.md)を介して私たちとつながり、自己紹介や質問をすることができます。また、[apply@ywamsendai.org](mailto:apply@ywamsendai.org)までメールを送っていただいても結構です。
 
 * まずは**[申請フォーム](https://www.ywamsendai.org/ja/apply/)**に記入してください！このフォームを受け取り次第、推薦者の方にご連絡し、あなたがこの学校にふさわしいかどうかを見極めるための参考にさせていただきます。
 
